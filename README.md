@@ -54,22 +54,6 @@ Me chamo Pedro, tenho 20 anos. Atualmente estou cursando Ciência da Computaçã
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 
-<img    
-    alt="NodeJs"
-    title="NodeJs"
-    align="left"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-
-<img    
-    alt="NodeJs"
-    title="NodeJs"
-    align="left"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
-
 <br>
 <br>
 
