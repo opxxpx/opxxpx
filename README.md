@@ -2,7 +2,7 @@
 
 **Desenvolvedor FullStack**
 
-Me chamo Pedro, tenho 20 anos. Atualmente estou cursando Ciência da Computação e faço estágio na CPTM como desenvolvedor FullStack.
+Me chamo Pedro, tenho 21 anos. Atualmente terminei a faculdade de Ciência da Computação e também o estágio na CPTM como desenvolvedor FullStack.
 
 ### 🤖 Linguagens e Tecnologia
 
